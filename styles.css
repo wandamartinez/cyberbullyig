@@ -6,3 +6,9 @@
 .d-flex{
     display: flex;
 }
+.offcanvas-link{
+    color: black;
+}
+.offcanvas-link:hover{
+    color: black;
+}
